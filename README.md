@@ -1,0 +1,1 @@
+Решения задач с курсов [«Разработка веб-сервисов на Go - основы языка»](https://www.coursera.org/learn/golang-webservices-1/) и [«Разработка веб-сервисов на Golang, часть 2»](https://www.coursera.org/learn/golang-webservices-2/).
